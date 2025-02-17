@@ -3,7 +3,7 @@ package server
 import (
 	"context"
 
-	"github.com/PicoTools/pico-shared/shared"
+	"github.com/PicoTools/pico/pkg/shared"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 )
