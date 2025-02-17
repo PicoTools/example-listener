@@ -6,8 +6,8 @@ import (
 	"net"
 	"strconv"
 
-	listener "github.com/PicoTools/pico-shared/proto/gen/listener/v1"
-	"github.com/PicoTools/pico-shared/shared"
+	listener "github.com/PicoTools/pico/pkg/proto/listener/v1"
+	"github.com/PicoTools/pico/pkg/shared"
 	"google.golang.org/protobuf/types/known/wrapperspb"
 )
 

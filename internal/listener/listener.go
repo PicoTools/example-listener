@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"strconv"
 
-	listener "github.com/PicoTools/pico-shared/proto/gen/listener/v1"
+	listener "github.com/PicoTools/pico/pkg/proto/listener/v1"
 	"google.golang.org/protobuf/types/known/wrapperspb"
 )
 
